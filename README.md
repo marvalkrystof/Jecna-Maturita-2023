@@ -23,7 +23,7 @@ SPŠE Ječná - Vypracované maturitní otázky z předmětů PV, DS a ČJ pro r
 - [ ] 16.Soubory a serializace - Ukládání a načítání dat, formáty souborů
 - [ ] 17.Strojové učení - Příprava dat, Chyby v datech a bias, Korelace a kauzalita
 - [ ] 18.Strojové učení s využitím regrese a klasifikace
-- [ ] 19.Strojové učení s využitím umělých neornových sítí
+- [x] 19.Strojové učení s využitím umělých neuronových sítí
 - [ ] 20.Testování, Unit testování a dokumentace zdrojového kódu
 - [ ] 21.Typy datových struktur - Pole, Spojový seznam, Strom, Fronta, Zásobník, Halda
 - [ ] 22.Vlákna, Paralerní programování, Asynchroní metody, Concurrent design patterns
