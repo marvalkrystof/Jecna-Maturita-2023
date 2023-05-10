@@ -1,0 +1,32 @@
+# 7. Datové typy, Generika, Výčtové datové typy, Struktury, Anotace, Operátory
+
+## O čem mluvit?
+
+- Rozdíly mezi datovými typy
+  - Typy (číselné, řetězce, boolean, objekty)
+    - Složité vs. Primitivní
+        - Proč string není primitive (char array)
+  - Velikost v paměti
+  - Int vs Float vs Decimal (Floating point)
+  
+- Generika
+  - Využití
+  - Příklad
+  - Výhody / Nevýhody
+
+- Výčtové datové typy (ENUM)
+  - Jak to funguje?
+  - Příklady využití
+
+- Anotace 
+  - Využití => Kde jsem to viděl? (unit testy)
+  - K čemu slouží?
+ 
+- Operátory
+    - Typy operátorů (aritmetické, relační, bitové, logické, ternánrí, přiřazovací)
+    - Operator overloading
+  
+  
+  
+  
+  
