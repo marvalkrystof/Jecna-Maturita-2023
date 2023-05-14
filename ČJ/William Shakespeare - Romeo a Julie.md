@@ -78,6 +78,7 @@
 ### Vypravěč / Lyrický subjekt
 - Dílo = drama -> nenachází se zde vypravěč
 - Děj tvoří promluvy postav + vševědoucí scénické poznámky
+- ich forma 
 
 
 ### Postavy
