@@ -19,21 +19,22 @@
   - základem je objektivnost, bez příkras
   - člověk je vytvářen prostředím ve kterém žije
 
-### Současníci
-**Rusko**
--  Anton Pavlovič Čechov (Dáma s psíčkem)
--  Lev Nikolajevič Tolstoj (Anna Karenina)
-**Francie**
-- Honoré de Balzac (Lidská komedie)
-- Gustav Flaubert (Paní Bovaryová)
-**Anglie**
-- Charles Dickens (Oliver Twist)
-**USA**
-- Mark Twain (Dobrodružství Huckleberryho Finna)
-
 - Odnož Realismu => Naturalismus
   - Popisné pasáže dotažené do extrému
   - Emile Zola (Francie - Nana) 
+
+
+### Současníci
+#### Rusko
+-  Anton Pavlovič Čechov (Dáma s psíčkem)
+-  Lev Nikolajevič Tolstoj (Anna Karenina)
+#### Francie
+- Honoré de Balzac (Lidská komedie)
+- Gustav Flaubert (Paní Bovaryová)
+#### Anglie
+- Charles Dickens (Oliver Twist)
+#### USA
+- Mark Twain (Dobrodružství Huckleberryho Finna)
 
 ## Dílo
 - Námět na Revizora získal od Puškina, který mu vyprávěl jak na jedné cestě byl považován za úředníka
