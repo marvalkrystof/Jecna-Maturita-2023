@@ -2,30 +2,75 @@
 ## Autor: Nikolaj Vasilijevič Gogol
 ![Gogol](https://github.com/marvalkrystof/Jecna-Maturita-2023/assets/84131825/e32b7f01-714e-4391-b3e7-15c6d3c75687)
 
+- Ruský prozaik a dramatik
+- Velikán ruského realismu
+- Úředníkem v Petrohradu
+- Ironičnost + Grotesktnost v dílech = návaznost na Puškina + ovlivnění Dostojevského
+- Charakterizuje obyčejné lidi + vesnice, maloměsta i metropole
+
 ### Díla
+- Podobizna 
+- Petrohradské povídky
 
 ### Doba 
+- **19. století**
+- Kritický realismus
+  - druhá polovina 19. století
+  - základem je objektivnost, bez příkras
+  - člověk je vytvářen prostředím ve kterém žije
 
 ### Současníci
+**Rusko**
+-  Anton Pavlovič Čechov (Dáma s psíčkem)
+-  Lev Nikolajevič Tolstoj (Anna Karenina)
+**Francie**
+- Honoré de Balzac (Lidská komedie)
+- Gustav Flaubert (Paní Bovaryová)
+**Anglie**
+- Charles Dickens (Oliver Twist)
+**USA**
+- Mark Twain (Dobrodružství Huckleberryho Finna)
 
+- Odnož Realismu => Naturalismus
+  - Popisné pasáže dotažené do extrému
+  - Emile Zola (Francie - Nana) 
 
 ## Dílo
+- Námět na Revizora získal od Puškina, který mu vyprávěl jak na jedné cestě byl považován za úředníka
 
 ### Druh a žánr
-- Literární druh:
-- Literární žánr:
+- Literární druh: Drama
+- Literární žánr: Satirická komedie
 ### Motiv a Téma
-- Téma:
-- Motivy:
+- Téma: Očekávaný příjezd revizora
+- Motivy: úplatkářství, byrokracie
 ### Časoprostor
-- Kdy:
-- Kde: 
+- Kdy: 19. století
+- Kde: Nespecifikované městečko, většina díla se odehrává u hejtmana doma
 ### Kompozice
-
+- 5 dějství
+- Chronologická
+- Zápletka = anekdota (vtipný příběh)
 ### Jazyk a styl
-
+- Spisovný + hovorové výrazy i nespisovný
+- Dialogy
+- Scénické poznámky
+- Výhradně ruská jména
+- Termíny
+- Oslovení
+- Metafory
+- Přirovnání
+- Slova neutrální i zabarvená
 ### Vypravěč / Lyrický subjekt
+- Vypravěč zde není => jsou zde repliky postav
 
 ### Postavy
-
+- Chlestakov – lidé jej mylně považují za revizora, který má přijet do města, užívá si nově nabyté moci a neuvědomuje si, jak se zapletl do kola lží
+- Anton Antonovič – policejní direktor, hejtman města
+- Špekin - pošťák
+- Zemljanka - kurátor lidumilných ústavů
+- Osip – Chlestakův sluha
+- Chlopov – školní inspektor
+- Bobčinskij a Dobčinskij – statkáři
 ### Děj
+Do města přijede petrohradský úředník Chlestakov, který je mylně považován za revizora, jehož příjezd byl ohlášen. Nejvyšší městští představitelé se obávají, že vyjde najevo jejich úplatkářská praxe, a proto se k Chlestakovi chovají velmi uctivě a hostí jej. Chlestakov v životě nic nedokázal a tuto novou životní situaci si velmi vychutnává. Drama končí příjezdem opravdového revizora a zděšených obyvatel městečka.
