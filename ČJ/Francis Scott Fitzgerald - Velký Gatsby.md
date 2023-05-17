@@ -3,30 +3,55 @@
 
 <img src=https://github.com/marvalkrystof/Jecna-Maturita-2023/assets/84131825/3947b383-2810-4c84-9a01-e25efb7d2676 width=300px height=450px>
 
+-	Tvořil v první polovině 20.st.
+-	americký prozaik, kritizoval soudobou americkou společnost
+-	představitel ztracené generace
+
 ### Díla
-
+- Něžná je noc - román
+- Na prahu ráje - román
 ### Doba 
-
+#### Meziválečná literatura
+#### Ztracená generace
+- autoři, kteří zažili hrůzy 1. světové války, v běžném životě byli poznamenáni
+- USA, avšak zařazován i Remarque (Německo)
 ### Současníci
-
+#### USA
+-	Ernest Hemingway (Stařec a moře)
+-	Romain Rolland (Petr a Lucie)
+- Erich Maria Remarque (Na západní frontě klid)
 
 ## Dílo
 
 ### Druh a žánr
-- Literární druh:
-- Literární žánr:
+- Literární druh: Velká epika
+- Literární žánr: Román
 ### Motiv a Téma
-- Téma:
-- Motivy:
+- Téma: Kritika americké společnosti
+- Motivy: faleš, láska, bohatství
 ### Časoprostor
-- Kdy:
-- Kde: 
+- Kdy: léto roku 1922
+- Kde: Long Island, New York City.
 ### Kompozice
 
 ### Jazyk a styl
-
+- vulgarismy
+- přímá řeč
+- ich forma
+- vulgarismy
 ### Vypravěč / Lyrický subjekt
-
+- Vypravěčem je hlavní postava -> Nick Carraway
 ### Postavy
+- Nick Carraway – obchodník s cennými papíry, jenž se snaží osamostatnit,snaží se něčeho dosáhnout,je ovlivnitelný
+- Jay Gatsby – v mládí býval chudý, poté se z něj stal překupník alkoholu a dostal se mezi smetánku,rozhodný,sebevědomý, není šťastný, touží po lásce
+- Daisy – není spokojená v manželství, touží po nových zážitcích
+- Tom - bohatý, arogantní, rasistický a sexistický; manžel Daisy, milenec Myrtle, přítel Nicka
+
+
 
 ### Děj
+Celý příběh vypráví Nick Carraway. Spřátelí se se svým novým sousedem Jayem Gatsbym, který je velmi zámožný a oblíbený muž. Ve svém domě pořádal spoustu večírků, avšak Nick poznal, že jde o snobské lidi, ne o přátele.
+Gatsby požádal Nicka o zprostředkování setkání se svou dávnou láskou, s níž se Nick zná. Daisy je již vdaná za Toma Buchanana, i přesto se začnou opět s Gatsbym po letech stýkat a stanou se z nich milenci. Její manžel Tom si našel vdanou přítelkyni Myrtle, avšak o nevěře své ženy neví. Časem se milenecký poměr Gatsbyho a Daisy dostane na povrch a vše vyvrcholí na výletě v New Yorku.
+Po hádce mezi Tomem, Gatsbym a Daisy odjíždí spolu Gatsby s Daisy autem domů. Daisy, která řídí Gatsbyho auto, nechtěně srazí Myrtle, milenku Toma, jež na místě zemře. Gatsby ji kryje a vina padne na něj. Manžel Myrtle se chce pomstít, zastřelí Gatsbyho a poté spáchá sebevraždu.
+Tom a Daisy se odstěhují. Nick zařizuje Gatsbyho pohřeb, ale zjistí, že lidé jsou bezcitní, bezohlední a jde jim jen a jen o peníze. Na jeho pohřeb přijde pouze on a Gatsbyho otec.
+
