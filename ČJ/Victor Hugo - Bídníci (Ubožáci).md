@@ -1,7 +1,8 @@
 # Dílo: Bídníci (Ubožáci)
 ## Autor: Victor Hugo
 
-![Hugo](https://github.com/marvalkrystof/Jecna-Maturita-2023/assets/84131825/6bd68426-5289-46bf-b0d5-295b497d778c)
+<img src=https://github.com/marvalkrystof/Jecna-Maturita-2023/assets/84131825/6bd68426-5289-46bf-b0d5-295b497d778c width=350 height=450> 
+
 - 19 . století
 - Největší francouzský prozaik
 - Otec člen Napoleonovi armády, matka spíše přivrženkyně krále
