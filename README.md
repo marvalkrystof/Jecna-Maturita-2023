@@ -12,13 +12,13 @@ SPŠE Ječná - Vypracované maturitní otázky z předmětů PV, DS a ČJ pro r
 - [ ] 5.Architectural design patterns - MVC, Multitier, Monolithic, P2P, Client/Server
 - [ ] 6.Asymptotické paměťové a časové složitosti
 - [ ] 7.Datové typy, Generika, Výčtové datové typy, Struktury, Anotace, Operátory
-- [ ] 8.Dědičnost, method overriding, function overloading
+- [x] 8.Dědičnost, method overriding, function overloading
 - [ ] 9.Integrita dat, bezpečnost, logování, kontrola vstupů, zpracování chyb
 - [ ] 10.Komunikace s databázovým systémem - Připojení, Ukládání a načítání dat, Mapování entit v OOP
 - [ ] 11.Komunikace v síti - Využití UDP/TCP protokolu
 - [ ] 12.Metodiky a životní cyklus vývoje softwaru
 - [ ] 13.Návrhové vzory - creational design patterns, structural design patterns, behavioral patterns
-- [ ] 14.Principy objektového programování, agregace a kompozice objektů
+- [x] 14.Principy objektového programování, agregace a kompozice objektů
 - [ ] 15.Programovací jazyky - vlastnosti, srovnání, popis způsobu tvorby i běhu programů
 - [ ] 16.Soubory a serializace - Ukládání a načítání dat, formáty souborů
 - [ ] 17.Strojové učení - Příprava dat, Chyby v datech a bias, Korelace a kauzalita
@@ -26,7 +26,7 @@ SPŠE Ječná - Vypracované maturitní otázky z předmětů PV, DS a ČJ pro r
 - [x] 19.Strojové učení s využitím umělých neuronových sítí
 - [ ] 20.Testování, Unit testování a dokumentace zdrojového kódu
 - [ ] 21.Typy datových struktur - Pole, Spojový seznam, Strom, Fronta, Zásobník, Halda
-- [ ] 22.Vlákna, Paralerní programování, Asynchroní metody, Concurrent design patterns
+- [x] 22.Vlákna, Paralerní programování, Asynchroní metody, Concurrent design patterns
 - [ ] 23.Vlastnosti datových struktur - Seřazenost a opakování prvků, Indexace, hashování a klíče prvků
 - [ ] 24.Výjimky a aserce, debugování a zpracování chyb
 - [ ] 25.Zpracování a parsování textých dat, regulární výrazy, kódování a stringy
@@ -59,4 +59,25 @@ SPŠE Ječná - Vypracované maturitní otázky z předmětů PV, DS a ČJ pro r
 - [ ] 24.Správa serveru MySQL, použití programu WorkBench
 - [ ] 25.SQL datové typy pro různá databázová prostředí popis a práce s nimi
 
-## ČJ - TODO
+## ČJ
+- [x] 1.William Shakespeare - Romeo a Julie
+- [x] 2.William Shakespeare - Hamlet
+- [x] 3.Nikolaj Vasilijevič Gogol - Revizor
+- [x] 4.Victor Hugo - Bídníci
+- [x] 5.Karel Hynek Mácha - Máj
+- [ ] 6.Edgar Allan Poe - Havran
+- [ ] 7.Karel Jaromír Erben - Kytice
+- [x] 8.George Bernard Shaw - Pygmalion
+- [x] 9.Erich Maria Remarque - Na západní frontě klid
+- [ ] 10.Antone de Saint Exupéry - Malý princ 
+- [ ] 11.Ernest Hemnigway - Stařec a moře 
+- [ ] 12.Francis Scott Fitzgerald - Velký Gatsby
+- [ ] 13.Franz Kafka - Proměna
+- [ ] 14.George Orwell - Farma zvířat
+- [ ] 15.Viktor Dyk - Krysař
+- [x] 16.Karel Čapek - R.U.R
+- [x] 17.Karel Čapek - Válka s mloky
+- [ ] 18.Ladislav Fuks - Spalovač mrtvol
+- [x] 19.Bohumil Hrabal - Ostře sledované vlaky
+- [ ] 20.Bohumil Hrabal - Obsluhoval jsem anglického krále
+
