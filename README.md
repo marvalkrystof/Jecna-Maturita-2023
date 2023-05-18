@@ -69,7 +69,7 @@ SPŠE Ječná - Vypracované maturitní otázky z předmětů PV, DS a ČJ pro r
 - [ ] 7.Karel Jaromír Erben - Kytice
 - [x] 8.George Bernard Shaw - Pygmalion
 - [x] 9.Erich Maria Remarque - Na západní frontě klid
-- [ ] 10.Antone de Saint Exupéry - Malý princ 
+- [x] 10.Antone de Saint Exupéry - Malý princ 
 - [ ] 11.Ernest Hemnigway - Stařec a moře 
 - [x] 12.Francis Scott Fitzgerald - Velký Gatsby
 - [x] 13.Franz Kafka - Proměna
