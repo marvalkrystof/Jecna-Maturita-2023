@@ -79,5 +79,5 @@ SPŠE Ječná - Vypracované maturitní otázky z předmětů PV, DS a ČJ pro r
 - [x] 17.Karel Čapek - Válka s mloky
 - [ ] 18.Ladislav Fuks - Spalovač mrtvol
 - [x] 19.Bohumil Hrabal - Ostře sledované vlaky
-- [ ] 20.Bohumil Hrabal - Obsluhoval jsem anglického krále
+- [x] 20.Bohumil Hrabal - Obsluhoval jsem anglického krále
 
