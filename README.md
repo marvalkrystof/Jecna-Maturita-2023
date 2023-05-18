@@ -71,7 +71,7 @@ SPŠE Ječná - Vypracované maturitní otázky z předmětů PV, DS a ČJ pro r
 - [x] 9.Erich Maria Remarque - Na západní frontě klid
 - [ ] 10.Antone de Saint Exupéry - Malý princ 
 - [ ] 11.Ernest Hemnigway - Stařec a moře 
-- [ ] 12.Francis Scott Fitzgerald - Velký Gatsby
+- [x] 12.Francis Scott Fitzgerald - Velký Gatsby
 - [ ] 13.Franz Kafka - Proměna
 - [ ] 14.George Orwell - Farma zvířat
 - [ ] 15.Viktor Dyk - Krysař
