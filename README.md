@@ -73,7 +73,7 @@ SPŠE Ječná - Vypracované maturitní otázky z předmětů PV, DS a ČJ pro r
 - [ ] 11.Ernest Hemnigway - Stařec a moře 
 - [x] 12.Francis Scott Fitzgerald - Velký Gatsby
 - [ ] 13.Franz Kafka - Proměna
-- [ ] 14.George Orwell - Farma zvířat
+- [x] 14.George Orwell - Farma zvířat
 - [x] 15.Viktor Dyk - Krysař
 - [x] 16.Karel Čapek - R.U.R
 - [x] 17.Karel Čapek - Válka s mloky
