@@ -65,19 +65,19 @@ SPŠE Ječná - Vypracované maturitní otázky z předmětů PV, DS a ČJ pro r
 - [x] 3.Nikolaj Vasilijevič Gogol - Revizor
 - [x] 4.Victor Hugo - Bídníci
 - [x] 5.Karel Hynek Mácha - Máj
-- [ ] 6.Edgar Allan Poe - Havran
-- [ ] 7.Karel Jaromír Erben - Kytice
+- [x] 6.Edgar Allan Poe - Havran
+- [x] 7.Karel Jaromír Erben - Kytice
 - [x] 8.George Bernard Shaw - Pygmalion
 - [x] 9.Erich Maria Remarque - Na západní frontě klid
 - [x] 10.Antone de Saint Exupéry - Malý princ 
-- [ ] 11.Ernest Hemnigway - Stařec a moře 
+- [x] 11.Ernest Hemnigway - Stařec a moře 
 - [x] 12.Francis Scott Fitzgerald - Velký Gatsby
 - [x] 13.Franz Kafka - Proměna
 - [x] 14.George Orwell - Farma zvířat
 - [x] 15.Viktor Dyk - Krysař
 - [x] 16.Karel Čapek - R.U.R
 - [x] 17.Karel Čapek - Válka s mloky
-- [ ] 18.Ladislav Fuks - Spalovač mrtvol
+- [x] 18.Ladislav Fuks - Spalovač mrtvol
 - [x] 19.Bohumil Hrabal - Ostře sledované vlaky
 - [x] 20.Bohumil Hrabal - Obsluhoval jsem anglického krále
 
